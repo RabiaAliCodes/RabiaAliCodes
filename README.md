@@ -30,25 +30,70 @@ I believe in learning by building, improving through feedback, and turning ideas
 
 ---
 
+
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Mobile Development
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, Android Studio"/>
+### 📱 Frontend Development
 
-### Programming & Web
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,javascript" height="45" alt="Frontend technologies"/>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript" alt="Python, HTML, CSS, JavaScript"/>
+Flutter · Dart · HTML · CSS · JavaScript
 
-### Backend & Tools
+</td>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" alt="Firebase, Git, GitHub, VS Code"/>
+### 🔥 Backend & Database
+
+<img src="https://skillicons.dev/icons?i=firebase,sqlite" height="45" alt="Backend and database technologies"/>
+
+Firebase · SQLite
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,dart" height="45" alt="Programming languages"/>
+
+Python · Dart
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,python" height="45" alt="AI and machine learning technologies"/>
+
+TensorFlow · TensorFlow Lite · Python
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+### 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" height="45" alt="Development tools"/>
+
+Git · GitHub · VS Code · Android Studio · Postman
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
 
 ## 🚀 Featured Projects
 
